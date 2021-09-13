@@ -13,7 +13,7 @@
       },
       "last_updated": "1628229830"
     },
-   "02": {
+    "02": {
       "title": "A Deal",
       "volume": "01",
       "groups": {
@@ -21,7 +21,7 @@
       },
       "last_updated": "1628730284"
     },
-   "03": {
+    "03": {
       "title": "Wish",
       "volume": "01",
       "groups": {
@@ -36,6 +36,14 @@
         "Hormiga Culona Translations & Zetsubou Translations": "/proxy/api/imgur/chapter/4OttFT3/"
       },
       "last_updated": "1630867525"
+    },
+    "05": {
+      "title": "Failure",
+      "volume": "01",
+      "groups": {
+        "Zetsubou Translations & Hormiga Culona Translations": "/proxy/api/imgur/chapter/xOTQURE/"
+      },
+      "last_updated": "1631571700"
     }
   }
 }
